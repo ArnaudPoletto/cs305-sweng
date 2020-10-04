@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bootcamp</string>
+    <string name="greeting_message">Hello %s!</string>
+    <string name="openweather_api_key">f32f9edcfe6d42d1949f516843ec8c85</string>
+    <string name="weather_forecast_format"> Weather forecast at address %s \n\n TODAY %s,\n\n TOMORROW %s,\n\n AFTER TOMORROW %s.</string>
+    <string name="weather_report_format"> Average temperature: %f \n Minimal temperature: %f \n Maximal temperature: %f \n Weather: %s</string>
+    <string name="weather_loading">WEATHER LOADING...</string>
+</resources>
